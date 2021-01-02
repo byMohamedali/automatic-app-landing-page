@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : IPTV +                            # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1525121231                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Mohamed Ali                                
 your_link                                 :                      
 your_city                                 : Dubai                                
-email_address                             : moha.by@icloud.com
+email_address                             : contact@iptvplus.app
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : by_mohamed_ali
