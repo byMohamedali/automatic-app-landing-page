@@ -75,7 +75,7 @@ features                                  :
 # Theme Settings
 topbar_color                              : "#dddddd"
 topbar_transparency                       : 0.7
-topbar_title_color                        : "#000000"
+topbar_title_color                        : "#ffffff"
 
 cover_image                               : headerBackground.png                   # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
@@ -87,9 +87,9 @@ body_background_color                     : "#000000"
 
 link_color                                : "#1d63ea"
 
-app_title_color                           : "#000000"
-app_price_color                           : "#000000"
-app_description_color                     : "#000000"
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#ffffff"
 feature_text_color                        : "#666666"
