@@ -77,7 +77,7 @@ topbar_color                              : "#dddddd"
 topbar_transparency                       : 0.7
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : headerBackground.png                   # Replace with alternative image path or image URL.
+cover_image                               : assets/headerBackground.png                   # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
 cover_overlay_transparency                : 0
 
