@@ -73,8 +73,8 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#ffffff"
-topbar_transparency                       : 1
+topbar_color                              : "#dddddd"
+topbar_transparency                       : 0.7
 topbar_title_color                        : "#000000"
 
 cover_image                               :                     # Replace with alternative image path or image URL.
