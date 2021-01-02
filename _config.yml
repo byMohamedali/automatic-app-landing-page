@@ -77,9 +77,9 @@ topbar_color                              : "#dddddd"
 topbar_transparency                       : 0.7
 topbar_title_color                        : "#000000"
 
-cover_image                               :                     # Replace with alternative image path or image URL.
+cover_image                               : headerBackground.png                   # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
-cover_overlay_transparency                : 1
+cover_overlay_transparency                : 0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
